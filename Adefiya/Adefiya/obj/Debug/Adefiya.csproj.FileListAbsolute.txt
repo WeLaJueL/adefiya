@@ -1,0 +1,9 @@
+C:\Users\WeLaJueL\Desktop\Adefiya\Adefiya\bin\Debug\Adefiya.exe.config
+C:\Users\WeLaJueL\Desktop\Adefiya\Adefiya\bin\Debug\Adefiya.exe
+C:\Users\WeLaJueL\Desktop\Adefiya\Adefiya\bin\Debug\Adefiya.pdb
+C:\Users\WeLaJueL\Desktop\Adefiya\Adefiya\obj\Debug\Adefiya.csprojAssemblyReference.cache
+C:\Users\WeLaJueL\Desktop\Adefiya\Adefiya\obj\Debug\Adefiya.Properties.Resources.resources
+C:\Users\WeLaJueL\Desktop\Adefiya\Adefiya\obj\Debug\Adefiya.csproj.GenerateResource.cache
+C:\Users\WeLaJueL\Desktop\Adefiya\Adefiya\obj\Debug\Adefiya.csproj.CoreCompileInputs.cache
+C:\Users\WeLaJueL\Desktop\Adefiya\Adefiya\obj\Debug\Adefiya.exe
+C:\Users\WeLaJueL\Desktop\Adefiya\Adefiya\obj\Debug\Adefiya.pdb
